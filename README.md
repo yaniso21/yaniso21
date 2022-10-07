@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Yaniso21
+- 🌱 I’m currently Working Full Stack Developer
+- 💞️ I’m intersted in Web Development and machine learning
